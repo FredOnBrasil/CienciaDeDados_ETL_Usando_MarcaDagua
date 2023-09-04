@@ -1,2 +1,6 @@
 # CienciaDeDados_ETL_Usando_MarcaDagua
-ciclo de ETL para ciencia de dados usando Marca d'água em imagens
+Ciclo de ETL para ciencia de dados usando Marca d'água em imagens
+
+***E = Extract
+***T = Transformation
+***L = Load
